@@ -19,7 +19,7 @@
 + Echarts 可视化库
 + OpenAPI前端代码生成
 ### 后端  
-+ Java Spring Boot(万用后端模板)
++ Java Spring Boot
 + MySQL数据库
 + MyBatis-Plus及MyBatisx自动生成
 + Redis + Redisson 限流
